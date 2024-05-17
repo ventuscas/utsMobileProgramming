@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">utsMobile</string>
+    <string name="agung_dharma_saputra">Agung Dharma Saputra</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="log_in">LOG IN</string>
+</resources>
